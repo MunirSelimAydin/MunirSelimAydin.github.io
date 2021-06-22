@@ -1,0 +1,28 @@
+#navbar {
+  flex-direction: column;
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+  overflow: hidden;
+  height: 100px;
+  padding-right: 0.1rem;
+  padding-left: 0.1rem;
+  font-size: 0.9rem;
+}
+#skills .items {
+  flex-direction: column;
+}
+#skills .items .item {
+  width: 100%;
+}
+.programs {
+  flex-direction: column;
+  text-align: center;
+}
+.programs .program {
+  margin-bottom: 2rem;
+}
+.programs .program span {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 0.5rem;
+}
